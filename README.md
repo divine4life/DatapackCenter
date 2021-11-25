@@ -1,4 +1,6 @@
-# InsanityDifficulty
-Insanity Difficulty - A minecraft challenge datapack
+# DatapackCenter
+The Datapack Center - A place to download all my datapacks and worlds
 
-Ever thought Minecraft was too easy. Have you tried mods that make it harder but they don't! Don't worry cause this datapack has got you covered
+Look through and find a one you like and download!
+
+By Divine4Life
